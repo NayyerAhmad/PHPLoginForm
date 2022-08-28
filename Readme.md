@@ -1,0 +1,2 @@
+a simple php login page which has login database and uses connect and functions and arrays to check the database for credentials and logs in if the username and passwords are correct.
+if the data is corrent the page loads to dashboard and if the credentials are incorrent it redirects to the main page.
